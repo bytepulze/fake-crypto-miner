@@ -10,7 +10,7 @@ import time
 
 os.system('clear')
 
-print(Fore.YELLOW + 'ethfavcoin.xyz - fake crypto miner')
+print(Fore.YELLOW + ' fake crypto miner')
 
 
 #-------------------------------------------------------------------------
